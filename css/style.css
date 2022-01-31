@@ -51,7 +51,7 @@ body {
   position: relative; }
 
 .left-section {
-  width: 40%; }
+  width: 44%; }
   @media (max-width: 770px) {
     .left-section {
       width: 100%;
@@ -65,7 +65,7 @@ body {
 
 .heading {
   text-align: center;
-  font-size: 9em;
+  font-size: 3.5em;
   line-height: 1.3em;
   margin: 2rem 0 0.5rem 0;
   padding: 0;
@@ -78,10 +78,10 @@ body {
 
 .subheading {
   text-align: center;
-  max-width: 480px;
+  max-width: 580px;
   font-size: 1.5em;
   line-height: 1.15em;
-  padding: 0 1rem;
+  padding: 16px 1rem 0;
   margin: 0 auto; }
   @media (max-width: 770px) {
     .subheading {
